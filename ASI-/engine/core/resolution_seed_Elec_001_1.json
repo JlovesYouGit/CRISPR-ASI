@@ -4,10 +4,10 @@
     "node_id": "Elec_001",
     "config": {
       "protocols_applied": [
-        "amyloid_clearing",
-        "synaptic_regeneration",
+        "neuroprotectant",
         "tau_stabilisation",
-        "neuroprotectant"
+        "synaptic_regeneration",
+        "amyloid_clearing"
       ],
       "node_charge": 1.0,
       "node_coupling": 0.85,
@@ -15,7 +15,7 @@
     },
     "cycle": 1
   },
-  "score": 0.8652537630741634,
-  "timestamp": "2026-07-04T21:08:36.147687",
+  "score": 0.8712897823517154,
+  "timestamp": "2026-07-04T21:40:18.839123",
   "immutable": true
 }
