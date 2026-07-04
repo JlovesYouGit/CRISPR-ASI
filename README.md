@@ -363,10 +363,59 @@ Each tissue type has hard-coded maximums:
 | Seed immutability | Strictly better score required |
 
 ---
+**Near-term (1–2 years):** integrate real patient WGS/WES, replace synthetic markers with validated lab assays, and validate simulation-predicted repair pathways against in vitro CRISPR screens.
 
+**Mid-term (2–5 years):** connect the seed JSON workflow to a governed OMOP/CDM data store, run adaptive-learning cycles on real EHR outcomes, and submit IND for top converging tissue-repair configurations.
+
+**Long-term (5+ years):** closed-loop deployment where the marker-check sandbox, conduction-gated tissue updates, and immutable seed audit trail become part of a regulated digital-twin trial platform.
 ## License
-MIT License — see LICENSE file for details.
 
+I cannot honestly claim this is presently effective in real-world medicine, because the current codebase is a **software simulation and orchestration framework**, not an FDA-approved clinical device. What I can say is where it would theoretically outperform traditional methods if its biological models were validated and paired with real patient data.
+
+## What the simulation does well
+
+| Feature | Mechanism | Theoretical advantage vs traditional medicine |
+|---|---|---|
+| **Multi-condition detection** | Marker-check sandbox scans 10 conditions from one virtual cache | Traditional: usually 1 specialty per test; this: simultaneous multi-disease profiling |
+| **Adaptive learning** | Auto-relearns after 25 observations, exploration decays 0.15→0.02 | Traditional: fixed protocols; this: improves per individual patient |
+| **Conduction-gated repair** | Tissue improvements only fire when energy is actually conducted | Traditional: scheduled dosing regardless of state |
+| **Stress-test convergence** | 8-trial sampling per worst-case condition before seed is saved | Traditional: single-arm trials; this: multi-path validation |
+| **Zero-brain overseer** | Continuous threat scanning + repair mode triggers automatically | Traditional: reactive diagnosis; this: continuous monitoring |
+| **Immutable seed JSON** | Only saves when score strictly improves | Traditional: versioning without strict fitness gates |
+| **Mass topology calibration** | Range/function tuned to actual body composition | Traditional: one-size-fits-most dosing |
+
+## Where it is not yet real-world ready
+
+1. **No wet-lab validation** — The genome sequences are synthetic hashes, not real patient DNA.
+2. **No regulatory approval** — CRISPR, tissue engineering, and seed JSON outputs are not FDA/EMA-cleared.
+3. **Simulation-only markers** — Marker extraction derives from `charge` and `entropy` proxies, not biopsy, imaging, or blood-work.
+4. **No pharmacokinetics** — There is no drug metabolism, half-life, or toxicity model.
+5. **Safety ceilings are constraints, not guarantees** — Hard-capped improvement factors prevent runaway claims, but a simulation cap is not clinical safety.
+
+## Honest comparison
+
+| Dimension | Simulation Today | Traditional Medicine |
+|---|---|---|
+| Speed of iteration | Seconds per cycle | Weeks–months per trial |
+| Personalization | Per-node calibration possible | Often population-average dosing |
+| Condition coverage | 10 conditions in one pass | Usually 1 disease pathway per drug |
+| Adaptivity | Continuous via adaptive learning | Fixed guidelines |
+| Real-patient efficacy | **Unproven** | **Proven via RCTs** |
+| Regulatory status | Prototype | Approved pathways exist |
+
+## What would be required for real-world use
+
+1. Replace synthetic `DNAGenome` with real WGS/WES data
+2. Replace marker heuristics with validated biomarkers from labs/imaging
+3. Run in vitro / animal studies for each repair pathway
+4. Submit IND application for CRISPR/tissue modalities
+5. Phase I–III trials with the marker-check stress test as eligibility filter
+6. Audit trail for immutable seed JSONs under 21 CFR Part 11
+
+Use it now as a **research orchestration and hypothesis-generation tool**. Do not use it as a clinical intervention.
+I cannot honestly claim this is presently effective in real-world medicine, because the current codebase is a **software simulation and orchestration framework**, not an FDA-approved clinical device. What I can say is where it would theoretically outperform traditional methods if its biological models were validated and paired with real patient data.
+
+Adapters for OmicLearn (omics ML biomarker discovery), biomarker-nlp (biomedical text NLP extraction), get-based (287+ blood/DNA marker dashboard), MIIDL (microbial biomarkers). Gracefully degrades if not installed
 ---
 
 ## Contact
