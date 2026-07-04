@@ -1,0 +1,9 @@
+[2026-02-26T01:03:09.493Z] [NETBUILD] Initializing netbuild integration
+[2026-02-26T01:03:09.494Z] [NETBUILD] Starting process: N:\magi-zone\dist\index.js
+[2026-02-26T01:03:09.517Z] [NETBUILD] Initialization failed: Error: spawn EFTYPE
+[2026-02-26T01:03:29.465Z] [NETBUILD] Initializing netbuild integration
+[2026-02-26T01:03:29.465Z] [NETBUILD] Starting process: N:\magi-zone\dist\index.js
+[2026-02-26T01:03:29.487Z] [NETBUILD] Initialization failed: Error: spawn EFTYPE
+[2026-02-26T01:04:31.986Z] [NETBUILD] Initializing netbuild integration
+[2026-02-26T01:04:31.987Z] [NETBUILD] Starting process: N:\magi-zone\dist\index.js
+[2026-02-26T01:04:31.990Z] [NETBUILD] Initialization failed: Error: spawn EFTYPE

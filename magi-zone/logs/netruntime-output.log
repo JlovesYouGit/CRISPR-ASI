@@ -1,0 +1,6 @@
+[2026-02-26T01:13:20.617Z] [STDOUT] Magi Zone .NET Runtime Service
+Version 1.0.0
+==============================
+[2026-02-26T01:13:20.618Z] [STDOUT] Starting in service mode...
+[2026-02-26T01:13:20.619Z] [STDOUT] READY
+Assembly loaded: MagiZone.Runtime.dll

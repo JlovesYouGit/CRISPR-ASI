@@ -1,0 +1,14 @@
+[2026-02-26T01:03:09.144Z] [PERSISTENT] Initializing persistent service
+[2026-02-26T01:03:09.146Z] [PERSISTENT] Installing Windows service
+[2026-02-26T01:03:09.518Z] [PERSISTENT] Initialization failed: Error: spawn EFTYPE
+[2026-02-26T01:03:29.135Z] [PERSISTENT] Initializing persistent service
+[2026-02-26T01:03:29.137Z] [PERSISTENT] Installing Windows service
+[2026-02-26T01:03:29.488Z] [PERSISTENT] Initialization failed: Error: spawn EFTYPE
+[2026-02-26T01:03:45.917Z] [PERSISTENT] Initializing persistent service
+[2026-02-26T01:03:45.919Z] [PERSISTENT] Installing Windows service
+[2026-02-26T01:03:46.249Z] [PERSISTENT] Skipping netbuild integration in service mode
+[2026-02-26T01:03:46.250Z] [PERSISTENT] Starting persistent service
+[2026-02-26T01:03:46.300Z] [PERSISTENT] Initialization failed: Error: Command failed: sc start "MagiZoneService"
+
+[2026-02-26T01:04:31.984Z] [PERSISTENT] Initializing persistent service
+[2026-02-26T01:04:31.991Z] [PERSISTENT] Initialization failed: Error: spawn EFTYPE

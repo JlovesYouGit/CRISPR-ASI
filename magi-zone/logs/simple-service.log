@@ -1,0 +1,5 @@
+[2026-02-26T01:06:00.837Z] [SIMPLE-PERSISTENT] Simple persistent service started
+[2026-02-26T01:06:00.839Z] [SIMPLE-PERSISTENT] Service is now running persistently
+[2026-02-26T01:06:30.852Z] [SIMPLE-PERSISTENT] Heartbeat - service is running
+[2026-02-26T01:06:42.978Z] [SIMPLE-PERSISTENT] Shutting down service...
+[2026-02-26T01:06:42.980Z] [SIMPLE-PERSISTENT] Service shutdown complete

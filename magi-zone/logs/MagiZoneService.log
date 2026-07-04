@@ -1,0 +1,5 @@
+[2026-02-26T01:03:09.468Z] Service installed successfully
+[2026-02-26T01:03:29.464Z] Service installed successfully
+[2026-02-26T01:03:46.249Z] Service installed successfully
+[2026-02-26T01:03:46.300Z] Failed to start service: Error: Command failed: sc start "MagiZoneService"
+

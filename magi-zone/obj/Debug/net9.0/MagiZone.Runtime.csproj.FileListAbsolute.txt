@@ -1,0 +1,14 @@
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.AssemblyInfoInputs.cache
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.AssemblyInfo.cs
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.csproj.CoreCompileInputs.cache
+N:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.exe
+N:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.deps.json
+N:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.runtimeconfig.json
+N:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.dll
+N:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.pdb
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.dll
+N:\magi-zone\obj\Debug\net9.0\refint\MagiZone.Runtime.dll
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.pdb
+N:\magi-zone\obj\Debug\net9.0\MagiZone.Runtime.genruntimeconfig.cache
+N:\magi-zone\obj\Debug\net9.0\ref\MagiZone.Runtime.dll

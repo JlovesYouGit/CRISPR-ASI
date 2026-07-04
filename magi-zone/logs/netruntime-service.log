@@ -1,0 +1,12 @@
+[2026-02-26T01:11:09.769Z] [NETRUNTIME] Initializing .NET runtime service
+[2026-02-26T01:11:10.033Z] [NETRUNTIME] Found .NET runtime: 9.0.305
+[2026-02-26T01:11:10.035Z] [NETRUNTIME] Initialization failed: Error: Assembly not found: n:\magi-zone\MagiZone.Runtime.dll
+[2026-02-26T01:12:40.391Z] [NETRUNTIME] Initializing .NET runtime service
+[2026-02-26T01:12:40.507Z] [NETRUNTIME] Found .NET runtime: 9.0.305
+[2026-02-26T01:12:40.508Z] [NETRUNTIME] Initialization failed: Error: Assembly not found: n:\magi-zone\MagiZone.Runtime.dll
+[2026-02-26T01:13:20.436Z] [NETRUNTIME] Initializing .NET runtime service
+[2026-02-26T01:13:20.571Z] [NETRUNTIME] Found .NET runtime: 9.0.305
+[2026-02-26T01:13:20.572Z] [NETRUNTIME] Assembly found: n:\magi-zone\bin\Debug\net9.0\MagiZone.Runtime.dll
+[2026-02-26T01:13:20.573Z] [NETRUNTIME] Starting .NET runtime...
+[2026-02-26T01:13:20.580Z] [NETRUNTIME] .NET runtime spawned with PID: 28572
+[2026-02-26T01:13:20.581Z] [NETRUNTIME] .NET runtime service initialized successfully

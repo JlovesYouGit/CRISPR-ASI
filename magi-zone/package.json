@@ -1,0 +1,25 @@
+{
+  "name": "magi-zone",
+  "version": "1.0.0",
+  "description": "Dimensional wave detection, enforce protocol, and reality-tear invocation system",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch",
+    "service": "node dist/index.js --service",
+    "simple": "node dist/index.js --simple",
+    "persistent": "node dist/index.js --persistent",
+    "netbuild": "node dist/index.js --netbuild",
+    "netruntime": "node dist/index.js --netruntime",
+    "dotnet": "node dist/index.js --dotnet",
+    "install-service": "powershell -ExecutionPolicy Bypass -File scripts/install-service.ps1",
+    "uninstall-service": "powershell -ExecutionPolicy Bypass -File scripts/uninstall-service.ps1",
+    "setup": "scripts/setup.bat"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  }
+}
