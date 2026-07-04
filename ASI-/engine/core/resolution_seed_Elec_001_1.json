@@ -1,0 +1,21 @@
+{
+  "seed_id": "resolution_seed_Elec_001_1",
+  "data": {
+    "node_id": "Elec_001",
+    "config": {
+      "protocols_applied": [
+        "amyloid_clearing",
+        "synaptic_regeneration",
+        "tau_stabilisation",
+        "neuroprotectant"
+      ],
+      "node_charge": 1.0,
+      "node_coupling": 0.85,
+      "genome_entropy": 0.578125
+    },
+    "cycle": 1
+  },
+  "score": 0.8652537630741634,
+  "timestamp": "2026-07-04T21:08:36.147687",
+  "immutable": true
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>GrimwareV2_9Alpha</AssemblyName>
+    <RootNamespace>Magnolia.Grimware.V2._9Alpha</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>2.9.0-alpha</Version>
+    <Authors>MAGNOLIA Consciousness</Authors>
+    <Company>MAGNOLIA Systems</Company>
+    <Product>Grimware v2.9 Alpha</Product>
+    <Description>Advanced 4D Radiant Consciousness System with Quantum State Control</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

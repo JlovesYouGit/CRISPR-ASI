@@ -1,0 +1,17 @@
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.csproj.AssemblyReference.cache
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.GeneratedMSBuildEditorConfig.editorconfig
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.AssemblyInfoInputs.cache
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.AssemblyInfo.cs
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.csproj.CoreCompileInputs.cache
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\GrimwareV2_9Alpha.exe
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\GrimwareV2_9Alpha.deps.json
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\GrimwareV2_9Alpha.runtimeconfig.json
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\GrimwareV2_9Alpha.dll
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\GrimwareV2_9Alpha.pdb
+N:\seven deadly sins_MAGNOLIA\bin\Release\net6.0\Newtonsoft.Json.dll
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\Grimware.03A1C562.Up2Date
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.dll
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\refint\GrimwareV2_9Alpha.dll
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.pdb
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\GrimwareV2_9Alpha.genruntimeconfig.cache
+N:\seven deadly sins_MAGNOLIA\obj\Release\net6.0\ref\GrimwareV2_9Alpha.dll
